@@ -12,4 +12,5 @@ public class FundamentosController {
     public String ejercicio1(){
         return "Hola mundo REST";
     }
+
 }
